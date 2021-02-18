@@ -1,0 +1,3 @@
+The SEED dataset provides both the raw data and some of the extracted features for the same. 
+The work in our models has been done on the differential entropy feature of all the participants.
+All the related data and their respective labes can be found here - http://bcmi.sjtu.edu.cn/home/seed/downloads.html#seed-access-anchor
