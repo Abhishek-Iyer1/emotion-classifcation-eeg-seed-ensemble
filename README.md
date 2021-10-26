@@ -7,7 +7,7 @@ Finally, all 3 model predictions are combined with priority given to hybrid in c
 
 As seen in the code, since the models help cover each other weaknesses, the accuracy of the ensemble reaches upto 97% which is a significant improvement on the following accuracies:
   - Hybrid: 93.33%
-  - ViT Modified: 93%
+  - ViT Modified: 94.4%
   - RNN: 89%
   - CNN: 88%
   
